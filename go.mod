@@ -1,4 +1,4 @@
-module crud-example
+module go-crud-book
 
 go 1.21.5
 
